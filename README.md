@@ -1,5 +1,5 @@
 # Fatura Otomasyon Sistemi Sunucusu
-Bu proje, fatura otomasyon sistemi için Node.js ve Express kullanarak yazılmış bir sunucudur. Sunucu, fatura depolama ve müşteri işlemlerini yönetir.
+Bu proje, fatura otomasyon sistemi için Node.js ve Express ve MySql veri tabanı kullanarak yazılmış bir sunucudur. Sunucu, fatura depolama ve müşteri işlemlerini yönetir.
 
 ## Özellikler
 - **Node.js ve Express:** Sunucu, Node.js ve Express framework'ü kullanılarak inşa edilmiştir.
