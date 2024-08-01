@@ -9,4 +9,4 @@ Bu proje, fatura otomasyon sistemi için Node.js ve Express kullanarak yazılmı
 ## Gereksinimler
 - Node.js 14+ sürümü
 - npm (Node Package Manager)
-- -Mysql
+- Mysql
